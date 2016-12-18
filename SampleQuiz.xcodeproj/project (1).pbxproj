@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BC8D4F901D62097F007F5DE4 /* button70.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC8D4F8F1D62097F007F5DE4 /* button70.mp3 */; };
 		BCA3F53B1D5E1E11001C8A36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA3F53A1D5E1E11001C8A36 /* AppDelegate.swift */; };
 		BCA3F53D1D5E1E11001C8A36 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA3F53C1D5E1E11001C8A36 /* ViewController.swift */; };
 		BCA3F5401D5E1E11001C8A36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCA3F53E1D5E1E11001C8A36 /* Main.storyboard */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BC8D4F8F1D62097F007F5DE4 /* button70.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = button70.mp3; sourceTree = "<group>"; };
 		BCA3F5371D5E1E11001C8A36 /* SampleQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCA3F53A1D5E1E11001C8A36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCA3F53C1D5E1E11001C8A36 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 		BCA3F5391D5E1E11001C8A36 /* SampleQuiz */ = {
 			isa = PBXGroup;
 			children = (
-				BC8D4F8F1D62097F007F5DE4 /* button70.mp3 */,
 				BCA3F53A1D5E1E11001C8A36 /* AppDelegate.swift */,
 				BCA3F53C1D5E1E11001C8A36 /* ViewController.swift */,
 				BCA3F53E1D5E1E11001C8A36 /* Main.storyboard */,
@@ -131,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCA3F5451D5E1E11001C8A36 /* LaunchScreen.storyboard in Resources */,
-				BC8D4F901D62097F007F5DE4 /* button70.mp3 in Resources */,
 				BCA3F5421D5E1E11001C8A36 /* Assets.xcassets in Resources */,
 				BCA3F5401D5E1E11001C8A36 /* Main.storyboard in Resources */,
 			);
@@ -295,7 +291,6 @@
 				BCA3F54B1D5E1E11001C8A36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
